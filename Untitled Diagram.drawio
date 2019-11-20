@@ -1,1 +1,160 @@
-<mxfile host="www.draw.io" modified="2019-11-20T23:02:24.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="F6H06IBJZ_1n60BFSz1n" version="12.2.7" type="github" pages="1"><diagram id="LGoaXbfylgzGgG2dZpJF" name="Page-1">3ZpNc5swEIZ/Dcd2jAQ2OTaO00yn7aHuTNvcVFgDrex1ZTkG//qCER/CTRNmUkvl4kHv6vPZRdIOduh8nb0VbJt8wAi4QyZR5tAbhxDf94rfUsgrYTabVkIs0qiS3FZYpkdQ4kSp+zSCnVZRInKZbnUxxM0GQqlpTAg86NVWyPVRtyyGM2EZMn6ufkkjmVRq4E9a/Q7SOKlHdifKsmZ1ZSXsEhbhoSPRhUPnAlFWT+tsDrxkV3Op2t0+Ym0mJmAjn9PgmITv3pD7z7c0/oTibnH8mP96pXp5YHyvFqwmK/OagMD9JoKyE9eh14cklbDcsrC0HgqXF1oi11yZVynnc+QoTm1pxCBYhYW+kwJ/QscyDQP4viosagIgJGSPrsxteBVxBrgGKfKiSqbHSh1iqnho/UVqryQdX5HaiUzFSNz03GIsHhTJAVTJGKg2gWsNVjoGrL1gpdQ4Vm8MWPvRagFXfwxcPapz9a+Mc52OkasF8TobI1fzp1YwBqy9U6u5/5rDejUGrP1Ty4Ldtfb0/w3WtY/rKFKt/vZqwUbgjjLbsgHsoHxr8jTYF8Dk65S8c0gu+QOk6T9jNCh5ugyjZrXWQBqUCZmBFJinNCivuQwlzzpIg5KUC0GaWUdpUM5hhhIlxikNSiHMbEt+YJpSPZhNlPqxZAGlQbd7I3clCyANuqmbeeHMb0vEwmt3/4UzfsIR74wJRDEsVRGFTDDGDeOLVr3WqbV13iNuFasfIGWuvkKzvUSdJGSp/Fo2f+2r0reO5SZTPZ8KuSpU8ywn93f2xVpwL0J4RmRIJmKQT1Y896YAzmT6oM/k5X1j4XXfv9xbXhTbj/onW+efEXTxGw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-20T23:53:03.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="2sN_IQ60_9FZ9QQfOF8i" version="12.2.7" type="github" pages="1">
+  <diagram id="LGoaXbfylgzGgG2dZpJF" name="Page-1">
+    <mxGraphModel dx="2205" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="430" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="430" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="430" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="430" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zhcJA2ZTF3gRorHEzNyq-23" target="zhcJA2ZTF3gRorHEzNyq-23" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zhcJA2ZTF3gRorHEzNyq-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-1" value="Application Development is creating applications or systems that run on a computer or other device. &lt;br&gt;Dev&#39;s work in firms that deal in computer systems design.&amp;nbsp;&lt;br&gt;Bachelor&#39;s degree or higher typically required for computer related jobs.&lt;br&gt;Median pay May 2018: $103,620&lt;br&gt;-bls.gov" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-2" value="&lt;span style=&quot;white-space: normal&quot;&gt;* Ideal for people who are good&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;with &quot;Big Picture&quot; mentality.&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;* For people who like working with people.&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;*I have a knack for problem solving.&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;* I am musically inclined.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-3" value="&lt;br&gt;1.Not Understanding the User&lt;br&gt;2. Debugging&lt;br&gt;3.Keeping up with the latest technology&lt;br&gt;4.Communicating the Issue&lt;br&gt;5.Time Estimation&lt;br&gt;6.Sitting for Hours&lt;br&gt;7.Security Threats&lt;br&gt;8. Working with another persons code&lt;br&gt;9.Not planning your code&lt;br&gt;-simpleprogrammer.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-4" value="Finding a job that is in the field that I am specifically looking for has been challenging. I meet a lot of people that want someone for IT, but hire out third party for actual coding." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-5" value="1. Learn by doing. Always play with code while learning&lt;br&gt;2. Grasp the Fundamentals for long-term benefits&lt;br&gt;3. Code by hand. it&#39;s sharpens proficiency and you&#39;ll need it to get a job.&lt;br&gt;4. Ask for help.&lt;br&gt;5. Seek out more online resources.&lt;br&gt;6. Don&#39;t just read sample code. Tinker with it.&lt;br&gt;7.Take breaks when debugging.&lt;br&gt;* Keep Calm and Code on.&lt;br&gt;&lt;a href=&quot;https://www.codingdojo.com/blog/7-tips-learn-programming-faster&quot;&gt;https://www.codingdojo.com/blog/7-tips-learn-programming-faster&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-6" value="&lt;font&gt;&lt;span style=&quot;font-size: 12px ; color: rgb(64 , 64 , 64) ; font-family: &amp;#34;georgia&amp;#34; ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;A common mistake made by new graduates is dismissing or overlooking benefits and simply choosing the highest salary offered. A difference of just 1% in retirement match or 10% in health insurance premium paid by the employer can quickly eat up the additional salary offered. Take into consideration salary and benefits when accepting, declining, or negotiating an offer&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; color: rgb(64 , 64 , 64) ; font-family: &amp;#34;georgia&amp;#34; ; white-space: normal&quot;&gt;.&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://www.codingdojo.com/blog/entry-level-software-developer-salary&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;https://www.codingdojo.com/blog/entry-level-software-developer-salary&lt;/font&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 12px ; color: rgb(64 , 64 , 64) ; font-family: &amp;#34;georgia&amp;#34; ; white-space: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-7" value="1. Software Applications Developer&lt;br&gt;2. Web Developer&lt;br&gt;3. Computer Systems Engineer&lt;br&gt;4. Database Administrator&lt;br&gt;5.Computer Systems Analyst&lt;br&gt;6. Software quality Assurance(Qa Engineer)&lt;br&gt;7. Business Intelligence analyst&lt;br&gt;8.Computer Programmer&lt;br&gt;9. Network System Administrator&lt;br&gt;-Rasmussen.edu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-8" value="1. Codeacademy&lt;br&gt;2. Coursera&lt;br&gt;3. edX&lt;br&gt;4.LinkedinLearning&lt;br&gt;5.Udemy&lt;br&gt;6. Sololearn (my favorite)&lt;br&gt;7.MIT Open Courseware&lt;br&gt;8.Free Food Camp&lt;br&gt;9.Code Avengers&lt;br&gt;10.Web Fundamentals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-9" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;1. near 0% unemployment&lt;br&gt;2. Dev&#39;s don&#39;t need to be manager for more money&lt;br&gt;3. Dev&#39;s are not expected to know everything&lt;br&gt;4. Salaries are&amp;nbsp; sweet!&lt;br&gt;5. Devs like their actual work. Not just the pay.&lt;br&gt;6. All of the above makes you optimistic about life.&lt;br&gt;&lt;a href=&quot;https://www.codingdojo.com/blog/6-reasons-devs-are-the-happiest-people-at-work&quot;&gt;https://www.codingdojo.com/blog/6-reasons-devs-are-the-happiest-people-at-work&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-10" value="1. AI or Bots&lt;br&gt;2. JavaScript&lt;br&gt;3. Progressive Web App&lt;br&gt;4. Single Page Application&lt;br&gt;5. Mobile-Friendly Website&lt;br&gt;6. Motion UI&lt;br&gt;7. Blockchain Technology&lt;br&gt;8. CyberSecurity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="590" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-11" value="What are the differences between C++ and C?&lt;br&gt;References vs. Pointers?&lt;br&gt;What are virtual Functions?&lt;br&gt;Can we do &quot;delete this?&quot;&lt;br&gt;what is &quot;this&quot; pointer?&lt;br&gt;What are VTABLE and VPTR?&lt;br&gt;What are major c++ features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-12" value="C++:&lt;br&gt;- Certified Asssociate Programmer&lt;br&gt;- Certified Professional Programmer&lt;br&gt;C Programming Language Certified Associate&lt;br&gt;- C Certified Professional Programmer&lt;br&gt;You must past the first to move on to the next level." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="850" width="200" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-13" value="Application Development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-14" value="&lt;span style=&quot;white-space: normal&quot;&gt;Application Development&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-15" value="C++ Levels of Certification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-16" value="Free Online Coding Classes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-17" value="Prep for the Interview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-18" value="Mistakes of Going in Green" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-19" value="6 Reasons Devs are Happiest People at work" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-20" value="7 Tips to land a job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-21" value="Top 8 Trends 2019&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-22" value="Jobs for Developers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-23" value="Types of Development Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVULiENIRAACoxEUdVKs-23" target="BVULiENIRAACoxEUdVKs-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BVULiENIRAACoxEUdVKs-25" value="Top Issues for Coders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
